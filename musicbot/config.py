@@ -478,7 +478,7 @@ class Config:
 class ConfigDefaults:
     owner_id = None
 
-    token = None
+    token = MTIxMDEyMjI0MDg2MDEwMjc1Ng.GjAB4W.eH7eNBvezTOIsj6Kpiye-VbPMLGs9BOZzHFjyg
     dev_ids = set()
     bot_exception_ids = set()
 
